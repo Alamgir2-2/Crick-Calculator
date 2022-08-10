@@ -23,30 +23,30 @@ score and we can easily enjoy the game infront og us in a smart way.
  ```
   Normal Mode
 ```
- ![Normal Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/normal_calculator_page.png)
+ ![Normal Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/icons/normal_calculator_page.png)
   ```
   Match Options
 ```
- ![Match Options Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/Cricket_page.png)
+ ![Match Options Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/icons/Cricket_page.png)
  
   ```
   Cricket Mode
 ```
- ![Crick Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/cricket_mode.png)
+ ![Crick Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/icons/cricket_mode.png)
  
   ```
 One Day Mode
 ```
- ![One day Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/one_day_match_page.png)
+ ![One day Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/icons/one_day_match_page.png)
  ```
 T20 Mode
 ```
- ![One day Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/t20_match.png)
+ ![T20 Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/icons/t20_match.png)
  
  ```
 Test Mode
 ```
- ![One day Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/test_match.png)
+ ![Test Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/icons/test_match.png)
  
  ## Getting started
 **Prerequisites:**
