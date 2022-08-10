@@ -18,35 +18,35 @@ score and we can easily enjoy the game infront og us in a smart way.
 ```
   Home Page
 ```
- ![Home Page](https://github.com/Prosanto7/Crick-Calculator/blob/main/src/icons/home_page.png)
+ ![Home Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/icons/home_page.png)
  
  ```
   Normal Mode
 ```
- ![Normal Mode Page](https://github.com/Prosanto7/Crick-Calculator/blob/main/src/icons/normal_calculator_page.png)
+ ![Normal Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/normal_calculator_page.png)
   ```
   Match Options
 ```
- ![Match Options Page](https://github.com/Prosanto7/Crick-Calculator/blob/main/src/icons/Cricket_page.png)
+ ![Match Options Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/Cricket_page.png)
  
   ```
   Cricket Mode
 ```
- ![Crick Mode Page](https://github.com/Prosanto7/Crick-Calculator/blob/main/src/icons/cricket_mode.png)
+ ![Crick Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/cricket_mode.png)
  
   ```
 One Day Mode
 ```
- ![One day Mode Page](https://github.com/Prosanto7/Crick-Calculator/blob/main/src/icons/one_day_match_page.png)
+ ![One day Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/one_day_match_page.png)
  ```
 T20 Mode
 ```
- ![One day Mode Page](https://github.com/Prosanto7/Crick-Calculator/blob/main/src/icons/t20_match.png)
+ ![One day Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/t20_match.png)
  
  ```
 Test Mode
 ```
- ![One day Mode Page](https://github.com/Prosanto7/Crick-Calculator/blob/main/src/icons/test_match.png)
+ ![One day Mode Page](https://github.com/Alamgir2-2/Crick-Calculator/blob/main/src/icons/test_match.png)
  
  ## Getting started
 **Prerequisites:**
@@ -56,7 +56,7 @@ Test Mode
 
 **Get the project** :
     ```
-    git clone https://github.com/Prosanto7/Crick-Calculator.git
+    git clone https://github.com/Alamgir2-2/Crick-Calculator.git
     ```
     
 **Import the project and run it.**    
